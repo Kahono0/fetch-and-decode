@@ -1,16 +1,5 @@
 defmodule DecodeJson do
   @moduledoc """
-  Documentation for `DecodeJson`.
-  """
-
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> DecodeJson.hello()
-      :world
-
   """
   @article %{
     :user_id => 0,

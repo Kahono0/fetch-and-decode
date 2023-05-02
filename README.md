@@ -1,6 +1,6 @@
 # DecodeJson
 
-** Fetch json data from a url and decode it to a struct**
+Fetch json data from a url and decode it to a struct
 
 ## How to run
 ```bash
